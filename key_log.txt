@@ -1,0 +1,1 @@
+'S'Key.cmdKey.shift'p''a''r'Key.ctrl_l'v'Key.enterKey.alt_lKey.tab'a''n''1''2'Key.ctrl_r
